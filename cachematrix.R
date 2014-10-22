@@ -41,8 +41,5 @@ cacheSolve <- function(x, ...) {
                 m
 }
 
-mat <- matrix(1:9,3,3)
-mat2 <- makeCacheMatrix(mat)
-mat3 <- cacheSolve(mat2)
- No newline at end of file
+
 
